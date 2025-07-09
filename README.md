@@ -1,4 +1,4 @@
-# Ciao, sono Alex e sono un Jr. Full Stack Web Developer, specializzato in Front End avanzato💻
+# Ciao, sono Alex e sono un Jr. Full Stack Web Developer 💻
 
 
 
