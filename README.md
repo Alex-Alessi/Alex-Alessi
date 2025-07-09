@@ -1,7 +1,9 @@
 # Ciao, sono Alex e sono un Jr. Full Stack Web Developer 💻
-Dopo il diploma come Perito Elettronico, ho scelto di approfondire la mia passione per il mondo digitale, orientandomi verso lo sviluppo web. Ho deciso di mettermi in gioco sul serio e ho completato un corso intensivo come Full Stack Web Developer con Boolean, dove ho imparato a lavorare sia sul frontend che sul backend.
+Dopo il diploma come Perito Elettronico, ho deciso di seguire la mia passione per il mondo digitale, specializzandomi nello sviluppo web. Ho affrontato questa sfida con determinazione, completando un corso intensivo come Full Stack Web Developer con Boolean 💻.
 
-Durante il percorso mi sono specializzato nella realizzazione di interfacce reattive e funzionali con React e TypeScript, oltre allo sviluppo lato server con Node.js, Express e MySQL. Ho lavorato su progetti che mi hanno permesso di consolidare le mie competenze tecniche e sviluppare una mentalità orientata al problem solving e alla collaborazione in team.
+Durante il percorso ho approfondito sia il frontend che il backend, concentrandomi in particolare sulla creazione di interfacce moderne e reattive con React e TypeScript ⚛️, e sullo sviluppo lato server con Node.js, Express e MySQL 🛠️.
+
+Grazie ai progetti realizzati, ho consolidato le mie competenze tecniche, affinato il mio approccio al problem solving e sviluppato una forte attitudine al lavoro di squadra 🤝.
 
 
 
